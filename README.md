@@ -1,3 +1,10 @@
+
+
+<p align="center">
+  <img src="DiagramaCasoDeUso.svg" alt="Diagrama de Caso de Uso" width="600"/>
+</p>
+
+
 ```mermaid
 classDiagram
     class PessoaFisica {
