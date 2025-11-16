@@ -65,58 +65,58 @@ class PessoaFisica
   direction RL
 ```
 
-
-## 👥 Colaboradores https://avatars.githubusercontent.com/u/146296538?v=4
+---
+## 👥 Colaboradores
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/Pamelacimirro">
-        <img src="https://avatars.githubusercontent.com/u/180059830?v=4?s=100" width="90px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/180059830?v=4?s=100" width="100px;" alt=""/>
         <br />
-        <span style="font-size:12px;"><b>Pâmela</b></span>
+        <span style="font-size:16px;"><b>Pâmela</b></span>
       </a>
       <br />
     </td>
       <td align="center">
       <a href="https://github.com/aironvalentim">
-        <img src="https://avatars.githubusercontent.com/u/146296538?v=4?s=100" width="90px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/146296538?v=4?s=100" width="100px;" alt=""/>
         <br />
-        <span style="font-size:12px;"><b>Airon</b></span>
+        <span style="font-size:16px;"><b>Airon</b></span>
       </a>
       <br />
     </td>    <td align="center">
       <a href="https://github.com/AlexandreGarciaJr">
-        <img src="https://avatars.githubusercontent.com/u/179349433?v=4?s=100" width="90px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/179349433?v=4?s=100" width="100px;" alt=""/>
         <br />
-        <span style="font-size:12px;"><b>Alexandre</b></span>
+        <span style="font-size:16px;"><b>Alexandre</b></span>
       </a>
       <br />
       </td>    <td align="center">
       <a href="https://github.com/usuario2">
-        <img src="https://avatars.githubusercontent.com/u/4430740?v=4?s=100" width="90px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/4430740?v=4?s=100" width="100px;" alt=""/>
         <br />
-        <span style="font-size:12px;"><b>Anderson</b></span>
+        <span style="font-size:16px;"><b>Anderson</b></span>
       </a>
       <br />
     </td>    <td align="center">
       <a href="https://github.com/gmcasagrande">
-        <img src="https://avatars.githubusercontent.com/u/180349085?v=4?s=100" width="90px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/180349085?v=4?s=100" width="100px;" alt=""/>
         <br />
-        <span style="font-size:12px;"><b>Guilherme</b></span>
+        <span style="font-size:16px;"><b>Guilherme</b></span>
       </a>
       <br />
     </td>    <td align="center">
       <a href="https://github.com/usuario1">
-        <img src="https://avatars.githubusercontent.com/u/6946727?v=4?s=100" width="90px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/6946727?v=4?s=100" width="100px;" alt=""/>
         <br />
-        <span style="font-size:12px;"><b>Gustavo</b></span>
+        <span style="font-size:16px;"><b>Gustavo</b></span>
       </a>
       <br />
     </td>    <td align="center">
       <a href="https://github.com/Maycon-on">
-        <img src="https://avatars.githubusercontent.com/u/182829460?v=4?s=100" width="90px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/182829460?v=4?s=100" width="100px;" alt=""/>
         <br />
-        <span style="font-size:12px;"><b>Maycon</b></span>
+        <span style="font-size:16px;"><b>Maycon</b></span>
       </a>
       <br />
     </td>
